@@ -12,7 +12,7 @@ This work has been submitted to **IEEE Transactions on Biomedical Engineering (T
 
 The DBCNN model features a novel dual-branch architecture designed specifically for complex-valued neural network processing. This architecture enables efficient and accurate real-time instantaneous phase estimation from biomedical signals.
 
-<img src="./Final FFT Model2.jpg" alt="DBCNN architecture" width="500"/>
+<img src="./Final FFT Model2.jpg" alt="DBCNN architecture" width="500" lenght="1000"/>
 
 
 ### Key Features

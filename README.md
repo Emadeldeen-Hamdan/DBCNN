@@ -12,7 +12,7 @@ The complete training and evaluation pipeline will be released upon final accept
 
 ## Architecture
 
-<img src="./FFinal FFT Model2.jpg" alt="DBCNN architecture" width="500"/>
+<img src="./Final FFT Model2.jpg" alt="DBCNN architecture" width="500"/>
 
 ---
 

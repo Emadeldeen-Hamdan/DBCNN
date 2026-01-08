@@ -53,4 +53,4 @@ If you find this work useful, please consider citing our paper : E. Hamdan et al
 
 
 **Last Updated:** December 2025  
-**Status:** Manuscript under review
+**Status:** Manuscript is accapted for publication

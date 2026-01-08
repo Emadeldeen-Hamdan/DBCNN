@@ -1,10 +1,10 @@
 # DBCNN: Dual-Branch Complex Neural Network
 
-This repository contains the architecture of the **Dual-Branch Complex Neural Network (DBCNN)** model for real-time instantaneous phase estimation.
+This repository contains the architecture of the **Dual-Branch Complex Neural Network (DBCNN)** model for real-time instantaneous phase estimation. 
 
 ## 📄 Publication Status
 
-This work has been submitted to **IEEE Transactions on Biomedical Engineering (TBME)** and is currently under review.
+This work has been accapted in **IEEE Transactions on Biomedical Engineering (TBME)**. [Link Text](https://ieeexplore.ieee.org/document/11313560)
 
 **Title:** "Real-time Instantaneous Phase Estimation Using a Deep Dual-Branch Complex Neural Network"
 
@@ -24,18 +24,14 @@ The DBCNN model features a novel dual-branch architecture designed specifically 
 
 ## 📦 Code Availability
 
-**Note:** The full implementation code will be made publicly available upon acceptance of the paper by IEEE TBME. The core implementation of the proposed DBCNN model is provided in:
+The proposed DBCNN model is provided in:
 
 - `model_POSE_DBCNN_Single.py`
 
-Additional scripts for training, evaluation, and data preprocessing will be made available upon acceptance.
+To train/test the model, use the codes provided in:
+- `Train.py`
+- `Test.py`
 
-Stay tuned for updates regarding:
-- Complete model implementation
-- Training scripts
-- Pre-trained models
-- Example usage and tutorials
-- Benchmarking results
 
 ## 📧 Contact
 
@@ -50,7 +46,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Citation
 
-If you find this work useful, please consider citing our paper once it is published (citation information will be updated upon publication).
+If you find this work useful, please consider citing our paper : E. Hamdan et al., "Real-time Instantaneous Phase Estimation Using a Deep Dual-Branch Complex Neural Network," in IEEE Transactions on Biomedical Engineering, doi: 10.1109/TBME.2025.3647598.
 
  ---
 

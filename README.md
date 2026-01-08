@@ -4,7 +4,7 @@ This repository contains the architecture of the **Dual-Branch Complex Neural Ne
 
 ## 📄 Publication Status
 
-This work has been accapted in **IEEE Transactions on Biomedical Engineering (TBME)**. [Link Text](https://ieeexplore.ieee.org/document/11313560)
+This work has been accapted in **IEEE Transactions on Biomedical Engineering (TBME)**. [Paper](https://ieeexplore.ieee.org/document/11313560)
 
 **Title:** "Real-time Instantaneous Phase Estimation Using a Deep Dual-Branch Complex Neural Network"
 
